@@ -49,7 +49,7 @@ const Navbar: React.FC = () => {
               <Terminal size={24} />
             </div>
             <span className="font-heading font-bold text-xl text-slate-800 dark:text-white">
-              Praveen<span className="text-primary-500">.dev</span>
+              Praveen Kumar 
             </span>
           </a>
 
